@@ -1,4 +1,4 @@
-# DNA-RNA-Triplex-Structure-Prediction-By-Deep-Learning-Using Histone Modification Marks
+# DNA-RNA Triplex Structure Prediction By Deep Learning Using Histone Modification Marks
 
 ### By Joseph Luper Tsenum, Maria Poptsova, Deborah Oganya Ogenyi
 
