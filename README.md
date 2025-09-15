@@ -1,4 +1,4 @@
-# DNA-RNA Triplex Structure Prediction By Deep Learning Using Histone Modification Marks
+# Using Deep Learning with Different Architectures  to Recognize RNA:DNA Triplex Structures from Histone Modification Features 
 
 ### By Joseph Luper Tsenum and Maria Poptsova
 
